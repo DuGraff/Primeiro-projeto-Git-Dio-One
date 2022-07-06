@@ -2,6 +2,6 @@
 Repositório teste para o projeto DIO ONE .  
 Projeto do curso  Formação Quality Assurance (QA) Experience.
 ## links Úteis
-https://www.markdownguide.org/
+[Guia útil](https://www.markdownguide.org/)
 ### Contato.
-https://www.linkedin.com/in/eduardo-graff-bordignon-a0970a57/
+[LinkedIn](https://www.linkedin.com/in/eduardo-graff-bordignon-a0970a57/)
